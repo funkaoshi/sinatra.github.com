@@ -10,22 +10,10 @@ Documentation
 
 A whirlwind tour of Sinatra's most interesting features.
 
-### [Frequently Asked Questions](faq.html)
-
-Answers to those questions most frequently asked on the mailing list and
-in `#sinatra`.
-
 ### [Options and Configuration](configuration.html)
 
 Detailed documentation on all of Sinatra's built-in options and using `set`,
 `enable`, and `disable` to configure them.
-
-### [API Documentation](/api/index.html)
-
-Generated from Sinatra's source with RDoc. The
-[Rack API docs](http://rack.rubyforge.org/doc/) should also be consulted.
-
-Also available with an alternate template at <http://railsapi.com/sinatra>.
 
 ### [Testing Sinatra with Rack::Test](testing.html)
 
@@ -35,10 +23,31 @@ Guide to testing Sinatra apps.
 
 How to add new functionality to Sinatra using the extension APIs.
 
+Project Information
+-------------------
+
+### [Sinatra 1.0 FAQ](./one-oh-faq)
+
+Sinatra is going 1.0, breaking backward compatibility for the first
+time in two years. The 1.0 FAQ includes information and best practices
+for upgrading.
+
+### [Frequently Asked Questions](faq.html)
+
+Answers to those questions most frequently asked on the mailing list and
+in `#sinatra`.
+
 ### [Release Notes](changes.html)
 
 Detailed change log for each Sinatra release generated from the `CHANGES`
 file.
+
+### [API Documentation](/api/index.html)
+
+Generated from Sinatra's source with RDoc. The
+[Rack API docs](http://rack.rubyforge.org/doc/) should also be consulted.
+
+Also available with an alternate template at <http://railsapi.com/sinatra>.
 
 ### [In the Wild](/wild.html)
 
@@ -94,6 +103,10 @@ Adam Wiggins and Blake Mizerany present Sinatra and
 [RestClient](http://github.com/adamwiggins/rest-client/tree/master)
 at RubyConf 2008. The talk details Sinatra's underlying philosophy and
 reflects on using Sinatra to build real world applications.
+
+### [Meet Sinatra](http://peepcode.com/products/sinatra) (PeepCode)
+
+Dan Benjamin introduces Sinatra in an hour-long screencast. Build an ad server with DataMapper, JavaScript, HAML, and Sinatra. In collaboration with Sinatra creator Blake Mizerany. Only $9.
 
 ### [Classy Web Development with Sinatra](http://www.pragprog.com/screencasts/v-aksinatra/classy-web-development-with-sinatra) (Prag's Screencast Series)
 

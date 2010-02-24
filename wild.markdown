@@ -11,7 +11,7 @@ care of the rest.
 Applications {#apps}
 ------------
 - [Flickr Group Viewer](http://gv.vqvz.com) is a (nicer?) way to view photos in a flickr group.
-- [OnBoard](http:/dev.vemarsas.it/onboard/) a web interface to manage Linux-based network appliances. 
+- [OnBoard](http://dev.vemarsas.it/onboard/) a web interface to manage Linux-based network appliances. 
 - [Tweetrad.io](http://tweetrad.io/sinatra) text to speech conversion for twitter
 - [Tweeps](http://tweeps.webdirections.org) conference app to aggregate
   tweets by attendees
@@ -32,6 +32,8 @@ Applications {#apps}
   blogging engine
 - [Scanty using CouchDB](http://github.com/jtulloch/scanty/tree/master)
 - [Scanty using CouchDB 0.9.0a and CouchRest 0.16](http://github.com/norr/scanty/tree/master)
+- [Haze](http://github.com/madx/haze) a lightweight and minimalist blogging
+  engine using flat text files.
 - [git-wiki](http://github.com/sr/git-wiki) a git-powered wiki
 - [Wordnatra](http://github.com/gnugeek/wordnatra) an interface to Princeton's
   WordNet lexical dictionary
@@ -76,7 +78,7 @@ Applications {#apps}
 Libraries and extensions {#libs}
 ------------------------
 
-- [sinatra\_more](http://github.com/nesquena/sinatra\_more) Library with agnostic 
+- [sinatra\_more](http://github.com/nesquena/sinatra_more) Library with agnostic 
    generators, form builders, named route mappings, easy mailer support, and more.
 - [Sinatra's Hat](http://github.com/nakajima/sinatras-hat) Mount models as web
   services in Sinatra with ease
@@ -112,9 +114,14 @@ Libraries and extensions {#libs}
   client.
 - [content\_for](http://github.com/foca/sinatra-content-for) Rails-like `content_for`
   helper for your views (supports ERB and Haml.)
+- [Sinatra Effigy](http://github.com/dancroak/sinatra-effigy) Sinatra extension
+  for Effigy (HTML in .html files, Ruby in .rb files) views.
+- [Sinatra Mongoid](http://github.com/dancroak/sinatra-mongoid) Sinatra extension
+  for Mongoid (MongoDB ORM).
 
 Websites {#sites}
 --------
+- [Speed of Animals](http://www.speedofanimals.com/): imagine being a spotted hyena...
 - [Bloor and Lansdowne is Blansdowne](http://blansdowne.ca) is a photoblog about a neighbourhood in Toronto.
 - [NYLS Upload Tool](http://upload.citylaw.org) Web-based replacement of FTP
 - [Fabulously40 Mobile](http://iphone.fabulously40.com) Sinatra powered mobile
@@ -159,6 +166,7 @@ Websites {#sites}
 - [The Setup](http://usesthis.com/) Interviews with nerds about their computer setups.
 - [Congrelate](http://congrelate.com) Congress data mashup visualization tool.
 - [Scholas](http://schol.as) Social file-sharing for academics.
+- [Gemcutter](http://gemcutter.org) Awesome gem hosting.
 
 Companies using Sinatra {#biz}
 -----------------------
@@ -184,3 +192,4 @@ Companies using Sinatra {#biz}
 - [Nth Metal Interactive](http://nthmetal.com)
 - [Osborne Brook](http://osbornebrook.co.uk)
 - [Robot Mode](http://robotmo.de)
+- [thoughtbot](http://thoughtbot.com)
